@@ -1,0 +1,143 @@
+[
+    {
+      "name": "The Adventure Quest",
+      "movieLength": 120,
+      "minAge": 12,
+      "maxAge": 60,
+      "category": "Adventure"
+    },
+    {
+      "name": "Mystery Mansion",
+      "movieLength": 90,
+      "minAge": 10,
+      "maxAge": 80,
+      "category": "Mystery"
+    },
+    {
+      "name": "Comedy Central",
+      "movieLength": 100,
+      "minAge": 8,
+      "maxAge": 70,
+      "category": "Comedy"
+    },
+    {
+      "name": "Sci-Fi Odyssey",
+      "movieLength": 150,
+      "minAge": 15,
+      "maxAge": 75,
+      "category": "Sci-Fi"
+    },
+    {
+      "name": "Romance Boulevard",
+      "movieLength": 110,
+      "minAge": 18,
+      "maxAge": 55,
+      "category": "Romance"
+    },
+    {
+      "name": "Action Fusion",
+      "movieLength": 140,
+      "minAge": 14,
+      "maxAge": 65,
+      "category": "Action"
+    },
+    {
+      "name": "Fantasy Frontier",
+      "movieLength": 130,
+      "minAge": 12,
+      "maxAge": 70,
+      "category": "Fantasy"
+    },
+    {
+      "name": "Drama Express",
+      "movieLength": 110,
+      "minAge": 16,
+      "maxAge": 75,
+      "category": "Drama"
+    },
+    {
+      "name": "Horror Haven",
+      "movieLength": 95,
+      "minAge": 18,
+      "maxAge": 65,
+      "category": "Horror"
+    },
+    {
+      "name": "Animated Wonders",
+      "movieLength": 80,
+      "minAge": 5,
+      "maxAge": 80,
+      "category": "Animation"
+    },
+    {
+      "name": "Historical Chronicles",
+      "movieLength": 160,
+      "minAge": 10,
+      "maxAge": 85,
+      "category": "History"
+    },
+    {
+      "name": "Family Fiesta",
+      "movieLength": 105,
+      "minAge": 5,
+      "maxAge": 70,
+      "category": "Family"
+    },
+    {
+      "name": "Thriller Heights",
+      "movieLength": 125,
+      "minAge": 16,
+      "maxAge": 75,
+      "category": "Thriller"
+    },
+    {
+      "name": "Musical Melodies",
+      "movieLength": 95,
+      "minAge": 10,
+      "maxAge": 80,
+      "category": "Musical"
+    },
+    {
+      "name": "Documentary Discovery",
+      "movieLength": 180,
+      "minAge": 12,
+      "maxAge": 90,
+      "category": "Documentary"
+    },
+    {
+      "name": "Superhero Saga",
+      "movieLength": 110,
+      "minAge": 8,
+      "maxAge": 65,
+      "category": "Superhero"
+    },
+    {
+      "name": "Western Frontier",
+      "movieLength": 135,
+      "minAge": 14,
+      "maxAge": 75,
+      "category": "Western"
+    },
+    {
+      "name": "Romantic Comedy",
+      "movieLength": 100,
+      "minAge": 16,
+      "maxAge": 70,
+      "category": "Romance"
+    },
+    {
+      "name": "Sports Spectacle",
+      "movieLength": 120,
+      "minAge": 10,
+      "maxAge": 80,
+      "category": "Sports"
+    },
+    {
+      "name": "Political Drama",
+      "movieLength": 140,
+      "minAge": 18,
+      "maxAge": 65,
+      "category": "Political"
+    }
+  ]
+  
