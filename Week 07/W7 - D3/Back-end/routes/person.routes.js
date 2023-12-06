@@ -1,0 +1,11 @@
+const express = require('express');
+const router = express.Router();
+const personController = require('../controllers/Person.controller');
+router.get('/', personController.getHome);
+router.post('/persons', personController.addPerson);
+router.get('/persons', personController.getPersons);
+router.delete('/persons/:id', personController.deletePerson);
+router.delete('/persons', personController.deleteMany);
+router.patch('/persons/:id', personController.updatePerson);
+router.post('/persons' , personController.addManyPerson);
+module.exports = router;
